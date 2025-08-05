@@ -1,0 +1,1 @@
+Senior Python Developer - We are seeking a Senior Python Developer with 5+ years of experience. Required skills: Python, Django/Flask, PostgreSQL, REST APIs, Git. Preferred: AWS, Docker, React.js. Responsibilities include developing web applications, designing APIs, mentoring junior developers, and participating in code reviews. Bachelor's degree in Computer Science preferred.

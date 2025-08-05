@@ -1,0 +1,3 @@
+Full Stack Developer - Full Stack Developer position requiring 2+ years experience. 
+Required: JavaScript/TypeScript, React/Angular, Node.js, MongoDB/PostgreSQL, HTML/CSS. Preferred: Next.js, GraphQL, Docker, CI/CD. 
+Develop frontend and backend features, design user interfaces, optimize performance, work in agile environment.

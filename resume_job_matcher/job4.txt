@@ -1,0 +1,1 @@
+DevOps Engineer - DevOps Engineer role requiring 4+ years experience. Required: AWS/Azure, Docker, Kubernetes, CI/CD pipelines, Terraform, Linux administration. Preferred: Prometheus/Grafana, Ansible, Python/Bash scripting, security practices. Manage cloud infrastructure, automate deployments, monitor systems, ensure compliance.

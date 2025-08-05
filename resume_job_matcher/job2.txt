@@ -1,0 +1,2 @@
+Data Scientist - Looking for a Data Scientist with 3+ years of machine learning experience. Required: Python/R, pandas, numpy, scikit-learn, SQL, statistical analysis. Preferred: TensorFlow/PyTorch, Tableau, big data tools, cloud platforms. You'll build predictive models, analyze datasets,
+create visualizations, and present insights to stakeholders.
